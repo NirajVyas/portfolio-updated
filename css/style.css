@@ -37,3 +37,11 @@ p {
   background-image: url('../images/linkedin.png');
 }
 
+/*.page {
+  display: none;
+}*/
+
+.visible {
+  display: block;
+}
+
